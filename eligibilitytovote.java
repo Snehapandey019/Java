@@ -7,4 +7,4 @@ if (age >= 18)
 else
  System.out.println("Not eligible");
 }
-}
+}  
